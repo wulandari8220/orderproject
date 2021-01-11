@@ -1,0 +1,199 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+button, a{
+	font-family: cursive;
+}
+
+.back:link {
+	color: white;
+	text-decoration: none;
+}
+
+.back:visited {
+	color: #228b22;
+	text-decoration: none;
+	
+}
+
+/*index.php*/
+p {
+	text-align: left;
+}
+
+input{
+	width: 25px;
+}
+
+.place {
+	color: #228b22;
+	font-size: 95px;
+	font-family: cursive;
+	padding-bottom: 20px;
+	text-shadow: 0px 0px 20px white;
+}
+
+.table_number {
+	font-family: cursive;
+	padding-bottom: 20px;
+	color: white;
+}
+
+.menu {
+	font-family: cursive;
+	margin-bottom: 20px;
+	color: white;
+}
+
+.form_order {
+	padding: 120px 150px;
+	text-align: center;
+	background-image: url('b425263e5af0c7a6fcf99d6c982d848c.jpg');/*https://i.pinimg.com/originals/b4/25/26/b425263e5af0c7a6fcf99d6c982d848c.jpg */
+	background-size: cover;
+}
+
+.makanan_list {
+	float: left;
+	padding-left: 50px;
+	padding-bottom: 50px;
+	flex: auto;
+}
+
+.food {
+	margin-bottom: 50px;
+	background-color: white;
+	font-family: cursive;
+}
+
+.drink {
+	background-color: white;
+	margin-bottom: 50px;
+	font-family: cursive;
+}
+
+.head_food {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	color: #228b22;
+}
+
+.head_drink {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	color: #228b22;
+}
+
+.list1 {
+	padding: 0px 50px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.list2 {
+	padding: 0px 100px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.minuman_list {
+	float: left;
+	padding-bottom: 50px;
+	padding-left: 60px;
+	flex: auto;
+}
+
+.makanan_list {
+}
+
+.gambar {
+	height: 160px;
+	width: 160px;
+}
+
+.next {
+	width: 100px;
+	height: 50px;
+}
+
+.name {
+	color: white;
+	font-family: cursive;
+	font-size: 40px;
+	text-align: center;
+	padding-top: 50px;
+	background-color: black;
+}
+
+/*confirm.php*/
+
+.place1 {
+	color: #228b22;
+	font-size: 50px;
+	font-family: cursive;
+	padding-bottom: 20px;
+	text-shadow: 0px 0px 20px white;
+}
+
+.form1_order {
+	border: 1px solid white;
+	padding: 100px;
+	margin-bottom: 50px;
+}
+
+.form2_order {
+	background-color: white;
+	margin-left: 210px;
+	margin-right: 210px;
+	
+}
+
+.table_number1 {
+	font-family: cursive;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.table1 {
+	font-family: cursive;
+	color: black;
+	border-collapse: collapse;
+}
+
+.table1, th, td {
+	border: 1px solid black;
+	padding: 8px 20px;
+}
+
+.table_number {
+	text-align: center;
+}
+
+.back {
+	height: 50px;
+	width: 50px;
+}
+
+.buy {
+	width: 100px;
+	height: 50px;
+}
+
+.else {
+	padding-bottom: 20px;
+}
+
+.total {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-family: cursive;
+}
+
+/*buy.php*/
+
+.wait {
+	color: white;
+}
+
+
