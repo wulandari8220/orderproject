@@ -11,10 +11,12 @@ require_once('drink.php');
 		<link rel="stylesheet" href="stylesheet.css">
 	</head>
 	<body>
+		<div class="back_menu">
 		<a href="index.php">
 			<img class="back" src="iconfinder_restart-1_18208.png">
 			<!--https://www.iconfinder.com/icons/18208/restart_arrow_back_icon -->
 		</a>
+		</div>
 		<form method="get" action="buy.php">
 		<?php $totalPayment1 = 0;
 					$totalPayment2 = 0;
